@@ -14,6 +14,7 @@
 		3A8491B9200FD73D00B41EBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A8491B7200FD73D00B41EBC /* LaunchScreen.storyboard */; };
 		3A8491C4200FD73D00B41EBC /* tableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8491C3200FD73D00B41EBC /* tableViewTests.swift */; };
 		3A8491CF200FD73D00B41EBC /* tableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8491CE200FD73D00B41EBC /* tableViewUITests.swift */; };
+		3A8491DD200FE32800B41EBC /* filacustomizadaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8491DC200FE32800B41EBC /* filacustomizadaTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3A8491CA200FD73D00B41EBC /* tableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A8491CE200FD73D00B41EBC /* tableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewUITests.swift; sourceTree = "<group>"; };
 		3A8491D0200FD73D00B41EBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A8491DC200FE32800B41EBC /* filacustomizadaTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = filacustomizadaTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				3A8491AE200FD73D00B41EBC /* AppDelegate.swift */,
 				3A8491B0200FD73D00B41EBC /* ViewController.swift */,
+				3A8491DC200FE32800B41EBC /* filacustomizadaTableViewCell.swift */,
 				3A8491B2200FD73D00B41EBC /* Main.storyboard */,
 				3A8491B5200FD73D00B41EBC /* Assets.xcassets */,
 				3A8491B7200FD73D00B41EBC /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A8491DD200FE32800B41EBC /* filacustomizadaTableViewCell.swift in Sources */,
 				3A8491B1200FD73D00B41EBC /* ViewController.swift in Sources */,
 				3A8491AF200FD73D00B41EBC /* AppDelegate.swift in Sources */,
 			);
